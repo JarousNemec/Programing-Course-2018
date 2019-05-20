@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static int volba;
         static int volba1;
         static int volba2;
+
+
         static int volba3;
         static double Auta;
         static double Motorky;
